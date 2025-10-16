@@ -7,7 +7,7 @@ dist/
 build/
 .venv/
 .env
-
+temp/
 config.ini
 .gemini/
 src/tasklist.egg-info/
